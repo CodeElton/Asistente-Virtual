@@ -59,12 +59,12 @@ Ejecute los siguientes comandos en su terminal:
 >> python asistente_virtual.py
 ```
 
-▶ OJO!! Sí quieres usar la funcionalidad de ver el clima debes realizar un paso
-Incluir tu API KEY, en la linea del codigo 100 del archivo (./asistente_persona.py).
+▶ OJO!! Sí quieres usar la funcionalidad de ver el clima debes realizar un paso importante,
+debes incluir tu API KEY, en la linea del codigo 100 del archivo (./asistente_persona.py).
 
 >> Si quieres saber tu API KEY ingresa a https://home.openweathermap.org/,
-Luego debes registrarte y acceder a la seccion de API keys, luego lo copias y lo pones en la linea 100
-donde indica (api_key = "TU_API_KEY_AQUÍ" )
+Luego debes registrarte y acceder a la seccion de API keys, luego copias la clave y la pegas en la seccion
+donde indica (api_key = "TU_API_KEY_AQUÍ" ) en la linea 100.
 
 📝 Notas
 Asegúrese de tener un micrófono funcional 🎤.
