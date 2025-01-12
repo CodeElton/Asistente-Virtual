@@ -1,4 +1,4 @@
-# 📚 Asistente Personal por Voz 🤖🎤
+# 📚 Asistente Virtual por Voz 🤖🎤
 
 Este proyecto implementa un asistente personal controlado por voz utilizando 🐍 Python. Permite realizar tareas como abrir aplicaciones 🖥️, obtener información de Wikipedia 📚, reproducir música en YouTube 🎶, entre otras.
 
@@ -60,7 +60,7 @@ Ejecute los siguientes comandos en su terminal:
 ```
 
 ▶ OJO!! Sí quieres usar la funcionalidad de ver el clima debes realizar un paso importante,
-debes incluir tu API KEY, en la linea del codigo 100 del archivo (./asistente_persona.py).
+debes incluir tu API KEY, en la linea del codigo 100 del archivo (./asistente_virtual.py).
 
 >> Si quieres saber tu API KEY ingresa a https://home.openweathermap.org/,
 Luego debes registrarte y acceder a la seccion de API keys, luego copias la clave y la pegas en la seccion
