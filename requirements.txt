@@ -1,0 +1,6 @@
+pyttsx3
+SpeechRecognition
+pywhatkit
+wikipedia
+webbrowser
+requests
